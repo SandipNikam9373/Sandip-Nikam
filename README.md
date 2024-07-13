@@ -8,25 +8,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandipnikam9373" alt="sandipnikam9373" /></a> </p>
 
-- 🔭 I’m currently working on **C programming**
 
-- 🌱 I’m currently learning **Bsc computer science**
+<h3 align="center">- 🔭 I’m currently working on **C programming**
+
+ 🌱 I’m currently learning **Bsc computer science**
 
 - 👯 I’m looking to collaborate on **-**
 
 - 🤝 I’m looking for help with **Programming**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
+- 👨‍💻 All of my projects are available at **github**
 
 - 📫 How to reach me **sn490507@gmail.com**
 
 - 📄 Know about my experiences [-](-)
 
-- ⚡ Fun fact **-**
+- ⚡ Fun fact **-*
+- </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <img alt="Coder GIF" height=150 width=250 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 <br>
 <p align="left">
